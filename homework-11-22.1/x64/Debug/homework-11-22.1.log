@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\c practice\homework-11-22.1\源.cpp(47,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c practice\homework-11-22.1\源.cpp(59,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  homework-11-22.1.vcxproj -> D:\c practice\homework-11-22.1\x64\Debug\homework-11-22.1.exe
